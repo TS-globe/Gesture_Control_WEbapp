@@ -1,0 +1,50 @@
+#footer_div
+{
+    position: fixed;
+    bottom: 0;
+    padding: 10px;
+    width:100%;
+    text-align: center;
+    background-color: rgb(247, 247, 247);
+}
+.line
+{
+    background-color: brown;
+    color: brown;
+    height: 10px;
+    width:100%;
+}
+.heading
+{
+    width: 100%;
+    font-weight: bold;
+    box-shadow: 10px 10px 20px black;
+    padding: 20px;
+}
+.Note
+{
+    background-color: greenyellow;
+    font-style:italic ;
+     font-weight: lighter;
+     border-radius: 20px;
+     padding: 5px;
+}
+#details_sqr{
+    background-color: coral;
+    border-radius: 10px;
+    padding: 2px;
+}
+canvas
+{
+    box-shadow: 10px 10px 20px black;
+    border-radius: 10px;
+    margin-top: 35px;
+}
+video{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: bisque;
+    border-style: ridge;
+    padding:0px;
+    background-color: indigo;
+}
